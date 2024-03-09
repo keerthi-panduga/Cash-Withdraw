@@ -1,0 +1,44 @@
+.main-container {
+  border-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card {
+  background-color: #150b3e;
+  height: 70vh;
+  width: 30vw;
+  border-radius: 10px;
+  margin-top: 100px;
+}
+.button-s {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+}
+.name {
+  color: white;
+  font-size: 20px;
+}
+.fist-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.sec-heading {
+  color: white;
+  font-size: 30px;
+}
+.sec-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.third-heading {
+  color: white;
+  font-size: 17px;
+}
+.list-container {
+  list-style-type: none;
+  flex-wrap: wrap;
+}
